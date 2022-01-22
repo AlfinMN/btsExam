@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">btsExam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_menggunakan_akun_anda">Login menggunakan akun anda</string>
+    <string name="sp">com.test.shared.preference</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+</resources>
